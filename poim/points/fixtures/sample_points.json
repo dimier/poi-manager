@@ -1,0 +1,93 @@
+[
+	{
+		"fields": {
+			"date_created": "2013-07-25T04:55:16Z",
+			"date_deleted": null,
+			"latitude": 56.917169,
+			"longitude": 35.289733,
+			"title": "Мастерский Лагерь",
+			"unlisted": false,
+			"user": 1
+		},
+		"model": "points.point",
+		"pk": 1
+	},
+	{
+		"fields": {
+			"date_created": "2013-07-25T04:55:16Z",
+			"date_deleted": null,
+			"latitude": 56.917777,
+			"longitude": 35.278057,
+			"title": "Мост через ручей (Въезд 2)",
+			"unlisted": false,
+			"user": 1
+		},
+		"model": "points.point",
+		"pk": 2
+	},
+	{
+		"fields": {
+			"date_created": "2013-07-25T04:55:16Z",
+			"date_deleted": null,
+			"latitude": 56.925,
+			"longitude": 35.309445,
+			"title": "Охраняемая парковка (Въезд 1)",
+			"unlisted": false,
+			"user": 1
+		},
+		"model": "points.point",
+		"pk": 3
+	},
+	{
+		"fields": {
+			"date_created": "2013-07-25T04:55:16Z",
+			"date_deleted": null,
+			"latitude": 56.92889,
+			"longitude": 35.265278,
+			"title": "Развилка 2 в пос. Доншино (Ф3)",
+			"unlisted": false,
+			"user": 1
+		},
+		"model": "points.point",
+		"pk": 4
+	},
+	{
+		"fields": {
+			"date_created": "2013-07-25T04:55:16Z",
+			"date_deleted": null,
+			"latitude": 56.929443,
+			"longitude": 35.265558,
+			"title": "Развилка в пос. Доншино (Ф2)",
+			"unlisted": false,
+			"user": 1
+		},
+		"model": "points.point",
+		"pk": 5
+	},
+	{
+		"fields": {
+			"date_created": "2013-07-25T04:55:16Z",
+			"date_deleted": null,
+			"latitude": 56.931946,
+			"longitude": 35.301946,
+			"title": "Развилка в пос. Зеленый (Ф1)",
+			"unlisted": false,
+			"user": 1
+		},
+		"model": "points.point",
+		"pk": 6
+	},
+	{
+		"fields": {
+			"date_created": "2013-07-25T04:55:16Z",
+			"date_deleted": null,
+			"latitude": 56.932499,
+			"longitude": 35.315555,
+			"title": "Поселок Зеленый (Магазин)",
+			"unlisted": false,
+			"user": 1
+		},
+		"model": "points.point",
+		"pk": 7
+	}
+]

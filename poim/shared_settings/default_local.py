@@ -4,6 +4,7 @@ from .base import *
 
 # DEBUG = False
 
+# DATABASES['default']['USER'] = ''
 
 TESTING = bool(len(sys.argv) > 1 and sys.argv[1] == 'test')
 

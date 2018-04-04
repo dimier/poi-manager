@@ -5,3 +5,9 @@
 Документация к API: https://demo.dimier.org/docs/
 
 Данные аутентификации для проб: `Token` `329251f8d5f2aed6cf851fbffb0b22c51bcb2f22`
+
+Для локального запуска требуется Python 3.4 и выше, PostgreSQL, далее:
+
+1. скопируйте `poim/shared_settings/default_local.py` в `poim/shared_settings/local.py`, переопределите пользователя в `DATABASES['default']['USER']`;
+2. в миграциях присутствует `CREATE EXTENSION`, требуются либо права суперпользователя в PostgreSQL, либо ручное проведение миграции;
+3. для запуска тестов используйте `./run_api_tests poim_api`
